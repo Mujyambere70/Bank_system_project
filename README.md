@@ -21,7 +21,7 @@ To use the Python Banking System, follow these steps:
 After installation, follow these steps to use the Python Banking System:
 1. Run the `main()` function from the Python script.
    ```
-   python banking_system.py
+   banking_system.py
    ```
 2. Choose options from the menu displayed in the console:
    - Create Account: Enter your name and initial balance to create a new account.
